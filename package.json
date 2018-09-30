@@ -11,6 +11,6 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "jest": "^23.1.0"
+    "jest": "^23.6.0"
   }
 }
